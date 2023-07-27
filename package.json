@@ -1,7 +1,7 @@
 {
   "name": "bia",
   "version": "1.0.1",
-  "description": "### Período do evento: 08 a 14 de Maio/2023 (Online e ao vivo às 20h)",
+  "description": "DevOps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/henrylle/bia.git"
+    "url": "https://github.com/quynguyen20-07/deployapp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/henrylle/bia/issues"
+    "url": "https://github.com/quynguyen20-07/deployapp.git"
   },
-  "homepage": "https://github.com/henrylle/bia#readme",
+  "homepage": "https://github.com/quynguyen20-07/deployapp.git#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
